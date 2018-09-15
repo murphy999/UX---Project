@@ -1,8 +1,9 @@
-# UX Process
+# Storyboard
 
-# Analysis
-The aim of the Analysis phase is to draw insights from data collected during the Research phase. Communicating the designer’s understanding back to end-users helps to confirm that any assumptions being made are valid. Techniques used during this phase are : 
+Storyboards are illustrations that represent sequential shots that ultimately represent a story. Storyboarding in UX is tool which help you visually predict and explore a user’s experience with a product. It would help you to understand how people would flow through the interaction with it over time, giving you a clear sense of how to create a strong narrative.
 
-<h4>1. Persona</h4> - https://github.com/murphy999/UX---Project/tree/Persona
+Storyboarding in UX is tool which help you visually predict and explore a user’s experience with a product. It’s a very much as thinking about your product as if it was a movie in term of how people would use it. It would help you to understand how people would flow through the interaction with it over time, giving you a clear sense of how to create a strong narrative.
 
-<h4>2. Use Case / User Flow</h4> - https://github.com/murphy999/UX---Project/tree/useCase
+- Human-centered design approach
+- Memorability
+- Engagement
