@@ -1,18 +1,16 @@
-# Persona
+# User Flow
 
-A User Persona is a representation of a particular audience segment for a product or service you are designing. It captures their motivations, frustrations and gives you an overview of who they are as an individual. 
+User Flow is the path a user follows through an application. The flow doesn’t have to be linear, it can branch out in a non-linear path. By determining this path you can see possible turns through the route and can optimize the user experience.
+User flows can start off simple and help determine ‘red routes’ — key user journeys. These can easily evolve into complex flows when there are many conditions and requirements involved. User flows are helpful in hashing out complex flows before building out the product.
 
-# There are three specific things to think about.
 
-1. Personas can be used to share research findings and insights within your team. But they can also serve as a common language to align an    interdisciplinary team or align multiple organizations. 
- 
-2. Personas can help create buy-in. They help gain buy-in on a specific user problem or need within the team or even outside of the team.
 
-3. Empathy. They help a team to get onto the same page and step into the shoes of different customer groups, to understand their needs.
+# Use Case
 
-# A persona can contain a variety of information that can help us ‘paint’ a picture of our user. The information could include:
+Use case diagram is a behavioral UML diagram type and frequently used to analyze various systems. They enable you to visualize the different types of roles in a system and how those roles interact with the system.
 
-- Demographic data - name, age, sex, location
-- Goals and motivations
-- Technical ability and device usage
-- Other brands or websites they may like
+Importance of Use Case Diagrams
+
+1. To identify functions and how roles interact with them.
+2. For a high-level view of the system – Especially useful when presenting to managers or stakeholders. You can highlight the roles that      interact with the system and the functionality provided by the system without going deep into inner workings of the system.
+3. To identify internal and external factors.
