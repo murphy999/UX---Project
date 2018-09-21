@@ -11,3 +11,5 @@ Wireframe is a low fidelity layout of the design which has 3 simple but direct t
 3. Vision and description of the user interface
 
 It will be your product’s main structure after you created a wireframe correctly. Just like the blueprint of a building, it describes details clearly and specifically.
+
+https://balsamiq.cloud/s1bb4c9/pqg5rwu
