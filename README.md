@@ -1,3 +1,10 @@
+# Cycle Rental Application
+<h4>Major Issues Solved are</h4> - 
+<ol>
+  <li>Worry-Free Pickup and Delivery of Cycles</li>
+  <li>Availability of Online Payment Facility</li>
+</ol>
+
 # UX Process Overview
 
 <img src='https://uxmastery.com/wp-content/uploads/2013/02/ux-process-diagram-cropped-620x360.png'>
@@ -17,3 +24,9 @@ The Design phase of a UX project is collaborative (involving input and ideas fro
 <h4>1. Wireframe</h4> - https://github.com/murphy999/UX---Project/tree/wireframe
 
 <h4>2. Mockup</h4> - https://github.com/murphy999/UX---Project/tree/mockup
+
+
+
+
+# Note
+<a href="https://uxmastery.com/resources/process/" target="_blank">Process Refrence</a>
